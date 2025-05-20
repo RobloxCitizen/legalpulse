@@ -1,0 +1,11 @@
+requests
+beautifulsoup4
+pdfplumber
+langchain==0.2.16
+chromadb==0.5.5
+streamlit==1.38.0
+python-telegram-bot==21.5
+transformers==4.44.2
+torch==2.0.1
+sentence-transformers==3.1.1
+cloudscraper
