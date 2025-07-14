@@ -12,6 +12,6 @@ LegalPulse is a Streamlit-based application designed to provide legal informatio
 
 ## Setup
 1. Clone the Repository:
-   `bash
+   ```bash
    git clone https://github.com/your-repo/legalpulse.git
    cd legalpulse
